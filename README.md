@@ -2,9 +2,8 @@
 
 Setup to create and upload a repo, with UnrealEngine 5.6.
 
-* Use "git push --set-upstream origin main" for repos with LF installed.
+* Use "git push --set-upstream origin main" for repos with LFS installed.
 
-Developed with Unreal Engine 5
 
 ![image](https://github.com/user-attachments/assets/ca2f58c5-d462-4975-9f30-035d19d61b7f)
 
